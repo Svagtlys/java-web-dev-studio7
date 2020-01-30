@@ -1,0 +1,20 @@
+Generic Behaviours
+    They both spin
+    They both store data
+    Data gets written to the discs by using a laser
+    The data on the discs can be read by using a laser
+    Once loaded, they both report information like name, capacity, contents, and disc type
+    They are easily scratched
+
+Generic Data
+    Name
+    CurrentCapacityUsage
+    Contents
+    maxCapacity
+    Content Type
+    # of scratches
+
+CD Specific
+
+
+DVD Specific
